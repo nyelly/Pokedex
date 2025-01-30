@@ -1,4 +1,5 @@
 ﻿using System;
+using Pokedexx.Dominio;
 
 class Program
 {
